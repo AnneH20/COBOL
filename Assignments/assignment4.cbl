@@ -93,6 +93,9 @@
        100-initialization.
            open input inFile.
            open output outFile.
+           display " ".
+           display xOutputHeading-1.
+
            write xOutput from xOutputHeading-1 before advancing 1 
            line.
            write xOutput from xOutputHeading-2 before advancing 1 
@@ -146,14 +149,18 @@
            add nGrossPay to nGrossCount.
 
            move nGrossCount to neGrossCount.
-
+           
+           display xOutput.
            write xOutput from xOutputDetail before advancing 1 line.
 
       * Termination
        300-termination.
-           
            close inFile.
-
+           
+           display xOutputHeading-2.
+           display xFooter.
+           display " ".
+           
            write xOutput from xOutputHeading-2 before advancing 1 
            line.
            write xOutput from xFooter before advancing 1 line.
