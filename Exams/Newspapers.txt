@@ -1,0 +1,32 @@
+USA Today            McLean         VA16210911982
+Wall Street Journal  New York City  NY10112001861
+New York Times       New York City  NY 4837011855
+New York Post        New York City  NY 4261291891
+Los Angeles Times    Los Angeles    CA 4179361911
+Washington Post      Washington     DC 2543791863
+Star Tribune         Minneapolis    MN 2518221844
+Newsday              Long Island    NY 2514731948
+Chicago Tribune      Chicago        IL 2381031867
+Boston Globe         Boston         MA 2307561816
+Journal Constitut    Atlanta        GA 1742511883
+Birmingham News      Birmingham     AL 1456551901
+Tampa Bay Times      Tampa          FL 1378001922
+Seattle Times        Seattle        WA  864061911
+Star-Advertiser      Honolulu       HI  790961933
+Herald               Miami          FL  731811954
+Arizona Republic     Phoenix        AZ  702161953
+Dallas Morning News  Dallas         TX  653681901
+Houston Chronicle    Houston        TX  650841912
+Inquirer             Philadelphia   PA  611801844
+Chronicle            San Francisco  CA  600981862
+Denver Post          Denver         CO  572651881
+Commercial Appeal    Memphis        TN  572401873
+Sun-Times            Chicago        IL  572221922
+Times                Huntsville     AL  570731946
+Buffalo News         Buffalo        NY  560051882
+Post-Dispatch        St. Louis      MO  482461877
+Journal Sentinel     Milwaukee      WI  478321872
+Daily Journal        Tupelo         MS  369291926
+Clarion-Ledger       Jackson        MS  164221883
+Daily News           Starkville     MS   75001961
+Reflector            Mississippi St MS  120001889
