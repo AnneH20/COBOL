@@ -1,4 +1,4 @@
-      * Program: Assignment 4 - Payroll Generator
+      * Program: Assignment 5 - Capitals
 
        identification division.
        program-id. Capitals-01.
