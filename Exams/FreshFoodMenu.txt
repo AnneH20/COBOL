@@ -1,0 +1,31 @@
+Channa Masala            Traditions      0100Lunch
+Cajun Roasted Pork Loin  True Balance    0220Lunch
+Yellow Basmati Rice      Traditions      0150Lunch
+Cajun Brown Rice         True Balance    0140Lunch
+Grilled Vegetables       Traditions      0080Lunch
+Garlic Roasted VegetablesTrue Balance    0060Lunch
+Crispy Chicken Sandwich  Grill           0250Lunch
+Grilled Naan             Traditions      0250Lunch
+Butter Chicken           Traditions      0200Lunch
+Homestyle French Fries   Grill           0260Lunch
+Cheese Pizza             Grill           0250Lunch
+Hawaiian Pizza           Grill           0390Lunch
+Pepperoni Pizza          Grill           0280Lunch
+SW Chicken Grain Bowl    Grill           0360Lunch
+Broccoli Cheddar Soup    Produce         0180Lunch
+Penne Broccoli Salad     Produce         0080Lunch
+Belgian Waffle           Bakery          0250Lunch
+Marbled Brownie          Bakery          0240Lunch
+Sugar Cookie             Bakery          0120Lunch
+Reese's Cupcake          Bakery          0240Lunch
+Chicken w Piccata Sauce  Traditions      0190Dinner
+Chicken Kale Penne       Traditions      0210Dinner
+Buttery Penne            Traditions      0110Dinner
+Pulled Pork              True Balance    0320Dinner
+Seasoned Black Beans     True Balance    0090Dinner
+Hamburger                Grill           0380Dinner
+Chicken Shawarma Pita    Grill           0460Dinner
+Grilled Green Beans      True Balance    0050Dinner
+Chicken & Sausage Paella Traditions      0340Dinner
+Kimchi Fried Rice        Traditions      0100Dinner
+Chocolate Chip Crumb CakeBakery          0190Dinner
