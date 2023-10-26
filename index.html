@@ -59,7 +59,7 @@
         <h2>Exams:</h2>
         <ul>
             <li>
-                Enter Exam #1 Password: <input id='password' type='password' />
+                Enter Exam #1 Password: <input id='password' type='password' autocomplete="off"/>
                 <a href="https://mislab.business.msstate.edu/~alh1310/Exams/exam01.cbl" onclick="javascript:return validatePass1()">Exam #1</a>
                 <script>
                     function validatePass1()
@@ -77,12 +77,12 @@
                     </script>
             </li>
             <li>
-                Enter Exam #2 Password: <input id='password' type='password' />
+                Enter Exam #2 Password: <input id='password2' type='password' autocomplete="off"/>
                 <a href="https://mislab.business.msstate.edu/~alh1310/Exams/exam02.cbl" onclick="javascript:return validatePass2()">Exam #2</a>
                 <script>
                     function validatePass2()
                     {
-                        if(document.getElementById('password').value == 'exam02')
+                        if(document.getElementById('password2').value == 'exam02')
                         {
                             return true;
                         }
@@ -95,12 +95,12 @@
                     </script>
             </li>
             <li>
-                Enter Exam #3 Password: <input id='password' type='password' />
+                Enter Exam #3 Password: <input id='password3' type='password' autocomplete="off"/>
                 <a href="https://mislab.business.msstate.edu/~alh1310/Exams/exam03.cbl" onclick="javascript:return validatePass3()">Exam #3</a>
                 <script>
                     function validatePass3()
                     {
-                        if(document.getElementById('password').value == 'exam03')
+                        if(document.getElementById('password3').value == 'exam03')
                         {
                             return true;
                         }
