@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>  </title>
+  <link rel="stylesheet" href="anne.css"> 
+</head>
+<header>
+    <h1>Anne's COBOL Page</h1>
+</header>
+<body>
+    <nav> 
+        <h2>Homework Assignments</h2>
+        <ul>
+            <li>
+                Assignment #1: Hello World 
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment1.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment1">(Executable)</a>
+            </li>
+            <li>
+                Assignment #2: Temp Converter 
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment2.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment2">(Executable)</a>
+            </li>
+            <li>
+                Assignment #3: State Report
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment3.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment3">(Executable)</a>
+            </li>
+            <li>
+                Assignment #4: Payroll Generator
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment4.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment4">(Executable)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/Payroll-01-output.txt">(.txt Output File)</a>
+            </li>
+            <li>
+                Assignment #5: Capital Table
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment5.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment5">(Executable)</a>
+            </li>
+            <li>
+                Assignment #6: East vs. West
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment6.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment6">(Executable)</a>
+            </li>
+            <li>
+                Assignment #7: Hello Web Browswer
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment7.cbl">(.cbl)</a>
+                /
+                <a href="https://mislab.business.msstate.edu/~alh1310/Assignments/assignment7.cgi">(.cgi)</a>
+            </li>
+        </ul> <br />
+        <h2>Exams:</h2>
+        <ul>
+            <li>
+                Enter Exam #1 Password: <input id='password' type='password' />
+                <a href="https://mislab.business.msstate.edu/~alh1310/Exams/exam01.cbl" onclick="javascript:return validatePass1()">Exam #1</a>
+                <script>
+                    function validatePass1()
+                    {
+                        if(document.getElementById('password').value == 'exam01')
+                        {
+                            return true;
+                        }
+                        else
+                        {
+                            alert('Incorrect Password!!');
+                            return false;
+                        }
+                    }
+                    </script>
+            </li>
+            <li>
+                Enter Exam #2 Password: <input id='password' type='password' />
+                <a href="https://mislab.business.msstate.edu/~alh1310/Exams/exam02.cbl" onclick="javascript:return validatePass2()">Exam #2</a>
+                <script>
+                    function validatePass2()
+                    {
+                        if(document.getElementById('password').value == 'exam02')
+                        {
+                            return true;
+                        }
+                        else
+                        {
+                            alert('Incorrect Password!!');
+                            return false;
+                        }
+                    }
+                    </script>
+            </li>
+            <li>
+                Enter Exam #3 Password: <input id='password' type='password' />
+                <a href="https://mislab.business.msstate.edu/~alh1310/Exams/exam03.cbl" onclick="javascript:return validatePass3()">Exam #3</a>
+                <script>
+                    function validatePass3()
+                    {
+                        if(document.getElementById('password').value == 'exam03')
+                        {
+                            return true;
+                        }
+                        else
+                        {
+                            alert('Incorrect Password!!');
+                            return false;
+                        }
+                    }
+                    </script>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>
