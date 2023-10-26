@@ -1,3 +1,9 @@
 header {
     text-align: center;
 }
+
+section {
+    position: absolute;
+    padding-top: 75%;
+    padding-left: 0%;
+}
