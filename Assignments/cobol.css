@@ -1,0 +1,35 @@
+* {font-size: 24pt}
+
+table,td,th
+{
+	border: thin solid black;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+tr:hover
+{
+  background-color: yellow;
+  color: blue;
+}
+
+td
+{
+	vertical-align: top;
+	padding: 6px;
+}
+
+.noBorder {border: none}
+
+.left {text-align: left}
+.center {text-align: center}
+.right {text-align: right}
+
+.highlight:hover
+{
+	color: black;
+	background-color: yellow;
+}
