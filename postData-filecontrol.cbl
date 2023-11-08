@@ -1,3 +1,3 @@
-      *> File: postData-filecontrol.cbl
+*> File: postData-filecontrol.cbl
 
-           select webinput assign to keyboard.
+select webinput assign to keyboard.

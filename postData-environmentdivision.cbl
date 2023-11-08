@@ -1,5 +1,5 @@
-      *> File: postData-environmentdivision.cbl
+*> File: postData-environmentdivision.cbl
 
-       configuration section.
-       repository.
-           function getPostValue.
+configuration section.
+repository.
+	function getPostValue.

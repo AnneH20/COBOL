@@ -1,4 +1,4 @@
-      *> File: postData-filesection.cbl
+*> File: postData-filesection.cbl
 
-       fd  webinput global.
-       01  postData							pic x(1024).
+fd	webinput global.
+01	postData							pic x(1024).

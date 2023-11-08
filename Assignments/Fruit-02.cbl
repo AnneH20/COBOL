@@ -1,5 +1,3 @@
-      * Program: Assignment 9 - Fruit Web Form
-
        identification division.
        program-id. Fruit-02.
       
@@ -106,4 +104,3 @@
 
            copy "postData-procedure.cbl".
 
-      * Add a blank line at the end 
