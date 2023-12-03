@@ -1,0 +1,18 @@
+ 0Jeffries     DJ           GROlive Branch    MS041044011005
+ 1Smith        Tolu         GRBay St Louis    MS000000000000
+ 2Myers        Adrian       FRStephens City   VA003004000000
+ 3Moore        Shakeel      SRGreensboro      NC030011005000
+ 4Matthews     Cameron      SROlive Branch    MS057047017005
+ 5Jones Jr.    Shawn        SOHouston         TX039017003004
+10Davis        Dashawn      GRThe Bronx       NY063009020000
+11Fort         Trey         JRJackson         MS051023003002
+12Murphy       KeShawn      SOBirmingham      AL006002002000
+13Hubbard      Josh         FRMadison         MS114019011001
+15Bell Jr.     Jimmy        GRSaginaw         MI066070007009
+20Alexander    Harrison     FRMadison         MS000000000000
+21Russell      Martavious   SOCoker           AL000000000000
+22Scott        Jaquan       JRDallas          TX006005001000
+23Taylor       Andrew       GRCorbin          KY012008006000
+25Stansbury    Isaac        GRBowling Green   KY000001001000
+34Chol         Gai          FRJuba            SS026014000001
+40Jackson III  Trey         JRStarkville      MS000000000000

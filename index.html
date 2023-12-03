@@ -73,6 +73,11 @@
                         /
                         <a href="https://mislab.business.msstate.edu/~alh1310/Fruit-02.cgi">(.cgi)</a>
                     </li>
+
+                    <li>
+                        Exam #5
+                        <a href="https://mislab.business.msstate.edu/~alh1310/exam5.html">(.html)</a>
+                    </li>
                 </ul>
             </td>
         </tr>
@@ -128,6 +133,24 @@
                             function validatePass3()
                             {
                                 if(document.getElementById('password3').value == 'exam03')
+                                {
+                                    return true;
+                                }
+                                else
+                                {
+                                    alert('Incorrect Password!!');
+                                    return false;
+                                }
+                            }
+                            </script>
+                    </li>
+                    <li>
+                        Enter Exam #5 Password: <input autocomplete="false" id='password5' type='password'/>
+                        <a href="https://mislab.business.msstate.edu/~alh1310/exam5.cbl" onclick="javascript:return validatePass5()">Exam #5</a>
+                        <script>
+                            function validatePass5()
+                            {
+                                if(document.getElementById('password5').value == 'exam05')
                                 {
                                     return true;
                                 }
